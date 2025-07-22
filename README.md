@@ -47,7 +47,7 @@ Easily adaptable for additional courses or changing module structures with minim
 
 ## 🛠 Tech Stack
 
-- **Java 11+**
+- **Java 1.8+**
 - **JavaFX** (GUI framework)
 - **Object Serialization** (for profile saving/loading)
 - **MVC Pattern** (clean architecture)
